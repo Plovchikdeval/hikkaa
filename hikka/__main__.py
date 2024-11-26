@@ -10,6 +10,7 @@ import getpass
 import os
 import subprocess
 import sys
+from .background import keep_alive
 
 from ._internal import restart
 
@@ -87,3 +88,5 @@ else:
         del os.environ["HIKKA_DO_NOT_RESTART"]
 
     main.hikka.main()  # Execute main function
+
+keep_alive()

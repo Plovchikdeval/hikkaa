@@ -1,0 +1,53 @@
+2024-11-26 08:12:52 [DEBUG] hikka.database: Database file not found, creating new one...
+2024-11-26 08:12:59 [DEBUG] urllib3.connectionpool: Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2024-11-26 08:12:59 [DEBUG] urllib3.connectionpool: https://raw.githubusercontent.com:443 "GET /hikariatama/assets/master/hikka-assets.png HTTP/1.1" 200 233563
+2024-11-26 08:13:05 [DEBUG] hikka.database: Database file not found, creating new one...
+2024-11-26 08:13:06 [DEBUG] root: Got DB
+2024-11-26 08:13:06 [DEBUG] root: Loading logging config...
+2024-11-26 08:13:07 [DEBUG] hikka.loader: Loading hikka.modules.api_protection from filesystem
+2024-11-26 08:13:07 [DEBUG] hikka.loader: Loading hikka.modules.eval from filesystem
+2024-11-26 08:13:07 [DEBUG] hikka.loader: Loading hikka.modules.help from filesystem
+2024-11-26 08:13:07 [DEBUG] hikka.loader: Loading hikka.modules.hikka_backup from filesystem
+2024-11-26 08:13:07 [DEBUG] hikka.loader: Loading hikka.modules.hikka_config from filesystem
+2024-11-26 08:13:07 [DEBUG] hikka.loader: Loading hikka.modules.hikka_info from filesystem
+2024-11-26 08:13:07 [DEBUG] hikka.loader: Loading hikka.modules.hikka_security from filesystem
+2024-11-26 08:13:07 [DEBUG] hikka.loader: Loading hikka.modules.hikka_settings from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.inline_stuff from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.loader from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.types: Config value was None, so it was reset to False
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.presets from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.quickstart from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.settings from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.terminal from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.test from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.translate from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.translations from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.unit_heta from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.update_notifier from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.types: Config value was None, so it was reset to False
+2024-11-26 08:13:08 [DEBUG] hikka.loader: Loading hikka.modules.updater from filesystem
+2024-11-26 08:13:08 [DEBUG] hikka.types: Config value was None, so it was reset to False
+2024-11-26 08:13:08 [DEBUG] hikka.types: Config value was None, so it was reset to False
+2024-11-26 08:13:08 [INFO] hikka.inline.token_obtainment: Bot token not found in db, attempting search in BotFather
+2024-11-26 08:13:08 [DEBUG] hikka.tl_cache: Saved hashable_entity @BotFather to cache
+2024-11-26 08:13:08 [DEBUG] hikka.tl_cache: Saved resolved_entity id 93372553 to cache
+2024-11-26 08:13:08 [DEBUG] hikka.tl_cache: Saved resolved_entity username @BotFather to cache
+2024-11-26 08:13:11 [DEBUG] hikka.inline.token_obtainment: >> /token
+2024-11-26 08:13:11 [DEBUG] hikka.inline.token_obtainment: << Choose a bot to generate a new token.
+2024-11-26 08:13:14 [INFO] hikka.inline.token_obtainment: User doesn't have bot, attempting creating new one
+2024-11-26 08:13:16 [DEBUG] hikka.inline.token_obtainment: >> /newbot
+2024-11-26 08:13:17 [DEBUG] hikka.inline.token_obtainment: << Alright, a new bot. How are we going to call it? Please choose a name for your bot.
+2024-11-26 08:13:22 [DEBUG] hikka.inline.token_obtainment: >> 🌘 Hikka Userbot of Больше не #Nedurov...
+2024-11-26 08:13:22 [DEBUG] hikka.inline.token_obtainment: << Good. Now let's choose a username for your bot. It must end in `bot`. Like this, for example: TetrisBot or tetris_bot.
+2024-11-26 08:13:27 [DEBUG] hikka.inline.token_obtainment: >> @hikka_f11paq_bot
+2024-11-26 08:13:27 [DEBUG] hikka.inline.token_obtainment: << Done! Congratulations on your new bot. You will find it at t.me/hikka_f11paq_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+8082844376:AAECUjslB-wArRVj41te0pdXfvtDxhy1qco
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+2024-11-26 08:13:31 [DEBUG] hikka.inline.token_obtainment: >> /setuserpic
+2024-11-26 08:13:31 [DEBUG] hikka.inline.token_obtainment: << Choose a bot to change profile photo.
+2024-11-26 08:13:35 [DEBUG] hikka.inline.token_obtainment: >> @hikka_f11paq_bot
+2024-11-26 08:13:35 [DEBUG] hikka.inline.token_obtainment: << OK. Send me the new profile photo for the bot.
